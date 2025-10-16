@@ -3,8 +3,8 @@ import Hero from './components/Hero';
 import Features from './components/Features';
 import HowItWorks from './components/HowItWorks';
 import UseCases from './components/UseCases';
-import About from './components/About';
-import Contact from './components/Contact';
+import About from './components/about';
+import Contact from './components/contact';
 import Footer from './components/Footer';
 
 function App() {
